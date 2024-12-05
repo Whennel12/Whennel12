@@ -11,9 +11,9 @@ Every line of code I write is a step toward mastering the digital landscape. Fro
   *Pursuing a degree in Information Technology*  
 
 ## 🏆 Certifications
-- https://catalog-education.oracle.com/ords/certview/sharebadge?id=CAD74298C2A7EEF676C6483C4EBDA805ED5970BE51FFC39AB154C9E481263C6F
-- https://catalog-education.oracle.com/ords/certview/sharebadge?id=896C752E8C1B132A824C121BD2F969DB2DE09DCCB997346F64B104A0F6A41F99
-- https://courses.cognitiveclass.ai/certificates/a5f2d1da45164fa68092599828d29eac
+- <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=CAD74298C2A7EEF676C6483C4EBDA805ED5970BE51FFC39AB154C9E481263C6F">1</a>
+- <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=896C752E8C1B132A824C121BD2F969DB2DE09DCCB997346F64B104A0F6A41F99">2</a>
+- <a href="https://courses.cognitiveclass.ai/certificates/a5f2d1da45164fa68092599828d29eac">3</a>
 
 ## 🔧 Skill Set
 - **Networking Wizardry**: Knowledge of protocols and the intricacies of network design.
